@@ -14,7 +14,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a researcher focusing on medical imaging, pattern recogntion, and machine learning. I strive for open source and data."
+    "des": "I'm a PhD student in applied math of Tufts University. My research focus on Mathematical Modeling in Economics. I'm also interested in Machine Learning, Programming Languages and Algorithms."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -51,9 +51,9 @@
   "blog":{
     "my_blog": "My Blog"
   },
-  "link":{
-    "link": "Link",
-    "view": "views"
-  }
+  //"link":{
+    //"link": "Link",
+    //"view": "views"
+  //}
 
 }
